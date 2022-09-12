@@ -1,2 +1,2 @@
 # MPDZ
-Fazendo um Instagram com Tecnologia de HTML, CSS, JavaScript
+Fazendo um Instagram com Tecnologia de HTML5, CSS3, JavaScript
