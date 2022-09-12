@@ -1,2 +1,2 @@
-# Insta
-Implementação de um site em HTML, CSS, JavaScript
+# MPDZ
+Fazendo um Instagram com Tecnologia de HTML, CSS, JavaScript
